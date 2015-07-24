@@ -17,7 +17,7 @@ The app should run in port 3000 of raspberry
 
 To to take a pic 
 Hit the URL 
-http://<rapiIP>:3000/camera
+http://rapiIP:3000/camera
 
 This will return the image from camera 
 
